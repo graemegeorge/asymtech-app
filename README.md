@@ -1,3 +1,7 @@
+## Expo submission to app store
+
+_eas, expo, build, submit, testflight_
+
 ### Requirements:
 
 - Expo project `npx create-expo-app my-app`
